@@ -1,6 +1,6 @@
 package main
 
-import "github/leeprince/hellogo/hello"
+import "github.com/leeprince/hellogo/hello"
 
 func main() {
 	hello.TestHello()

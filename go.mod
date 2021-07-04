@@ -1,3 +1,3 @@
-module github/leeprince/hellogo
+module github.com/leeprince/hellogo
 
 go 1.16
